@@ -35,6 +35,5 @@ hand_thing = "glove"
 name = "Poalia"
 
 # using a variable without first assigning a value will throw an error
-toadstool
 
 print("end of script")
