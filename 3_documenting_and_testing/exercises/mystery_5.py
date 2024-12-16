@@ -6,3 +6,4 @@ def mystery_5(a, b=None):
         a.remove(c)
         b.append(c)
     return b
+
